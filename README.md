@@ -1,5 +1,5 @@
+![image](https://github.com/KellyC2/KellyC2/assets/114506517/c7b633c5-bca0-4980-804b-e7e59dc29c21)
 
-![card3](https://github.com/KellyC2/KellyC2/assets/114506517/4ab70711-beaf-4e11-9b35-6ed9e14a8ead)
 
 <h1 align= "center"> Hi there, I'm Kelly  🤗 </h1>
 <p align="center"> Frontend developer, I've take courses in Platzi and I know technologies like HTML, CSS, JavaScript, Figma, Git and Github 🔥 </p>
