@@ -1,4 +1,6 @@
-![image](https://github.com/KellyC2/KellyC2/assets/114506517/c3cc7c1a-2914-45e9-a276-bd9cd5e0b6e2)
+<div align="center">
+   <img src="https://github.com/KellyC2/KellyC2/assets/114506517/8cfcd0db-5952-474b-944a-1e4de254c202" alt="Portada" width="600"/> 
+</div>
 
 
 <h1 align= "center"> Hi there, I'm Kelly  🤗 </h1>
