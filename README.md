@@ -1,4 +1,5 @@
-![image](https://github.com/KellyC2/KellyC2/assets/114506517/7d248111-6bb5-4953-871e-a67e8f8b0584)
+![image](https://github.com/KellyC2/KellyC2/assets/114506517/c3cc7c1a-2914-45e9-a276-bd9cd5e0b6e2)
+
 
 <h1 align= "center"> Hi there, I'm Kelly  🤗 </h1>
 <p align="center"> Software developer, I've take courses in Platzi and other educational Platforms. I know technologies like Java, SQL, Spring Boot, Maven, HTML y CSS, JavaScript, Figma, Git and Github 🔥 </p>
